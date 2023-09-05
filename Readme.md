@@ -1,7 +1,7 @@
 <h2> <i><em>NAMASTE WORLD!!</em></i> 🚀🚀 </h2>
 <h2>Hey 👋🏻 <i> buddy what's up! I'm Chetan ...<i/> <br><br>
  I'm a MERN stack Developer 💻 and UX designer !</h2>
- <h2>🔭 i am building scalable web apps for great user experiences </h2>
+ <h2>🔭 i am building scalable web apps to make people's life easy with my ux skills</h2>
  
    <h3>it's good to see you </h3>
 
