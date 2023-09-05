@@ -1,5 +1,5 @@
 <h2> <i><em>NAMASTE WORLD!!</em></i> 🚀🚀 </h2>
-<h2>Hey👋🏻 <i>There! I'm Chetan.<i/> <br><br>
+<h2>Hey 👋🏻 <i> buddy what's up! I'm Chetan.<i/> <br><br>
  I'm a MERN stack Developer 💻 and UX designer !</h2>
             <h2>🔭 i am building scalable web apps</h2>
 
