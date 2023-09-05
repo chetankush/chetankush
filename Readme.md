@@ -1,11 +1,11 @@
 <h2> <i><em>NAMASTE WORLD!!</em></i> 🚀🚀 </h2>
 <h2>Hey 👋🏻 <i> buddy what's up! I'm Chetan ...<i/> <br><br>
  I'm a MERN stack Developer 💻 and UX designer !</h2>
-            <h2>🔭 i am building scalable web apps</h2>
+ <h2>🔭 i am building scalable web apps</h2>
+ 
+ <h3>it's good to see you </h3>
 
-            <h3>it's good to see you </h3>
-
-<h2>🌱 currently learning</h2>
+ <h2>🌱 currently learning</h2>
 <ul>
     <li>AI automation</li>
     <li>Prompt engineering</li>
