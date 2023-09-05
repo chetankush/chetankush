@@ -62,9 +62,9 @@
 <h1>📈 GitHub Stats </h1>
 
 [![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetankush&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
-&nbsp
+
 <br><br>
-&nbsp
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetankush&theme=radical)](https://github.com/chetankush/github-readme-stats)
 
 <h2 align="left">🤝you can connect with me here -/> </h2>
