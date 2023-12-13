@@ -1,7 +1,7 @@
-<h2> <i><em>HELLO WORLD !</em></i> </h2>
-<h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1>...<i/> <br><br>
- I'm a MERN stack Developer 💻 and UX designer !</h2>
- <h2>🔭 i am building scalable web apps to make people's life easy with my ux skills</h2>
+
+<h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1><i/> <br><br>
+ I'm a MERN stack Developer and UX designer </h2>
+ <h2> i make scalable web apps to make people's life easy with my ux skills</h2>
  
    <h3>it's good to see you </h3>
 
@@ -9,9 +9,6 @@
 <ul>
     <li>AI automation</li>
     <li>Prompt engineering</li>
-    <li>Next js</li>
-    <li>aws</li>
-    
    
 </ul>
 
