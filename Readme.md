@@ -1,8 +1,8 @@
 
 <h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1><i/> <br><br>
  I'm a MERN stack Developer and UX designer </h2>
- <h2> i make scalable web apps to make people's life easy with my ux skills</h2>
- 
+ <h2> i design and develop scalable web apps to make people's life easy </h2>
+  <br><br> <br><br>
    <h3>it's good to see you </h3>
 
  <h2>🌱 currently learning</h2>
@@ -42,9 +42,7 @@
             <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="90" height="90" /> </a> 
-             <a href="https://jestjs.io" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="90"
-            height="90" /> </a> 
+    
              <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="90"
             height="90" /> </a> 
