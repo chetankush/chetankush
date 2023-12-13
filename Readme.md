@@ -41,20 +41,15 @@
         </a>
             <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="90" height="90" /> </a> 
+            width="90" height="90" /> 
+            </a> 
+            
     
-             <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="90"
-            height="90" /> </a> 
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="90" height="90" /> </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" /> </a>
-  
+       
+      
   </p>
 </div>
-<h2 align="left">🤝you can connect with me here -/> </h2>
+<h2 align="left">🤝you can connect with me on linked in -> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/chetan-kushwah-5592371b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvabhatnagar/" height="30" width="40" /></a> 
  
