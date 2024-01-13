@@ -4,12 +4,10 @@
  <h2> i design and develop scalable web apps to make people's life easy </h2>
   <br><br> <br><br>
    <h3>it's good to see you </h3>
-
  <h2>🌱 currently learning</h2>
 <ul>
     <li>AI automation</li>
     <li>Prompt engineering</li>
-   
 </ul>
 
 <h2 align="left"><i><b>Languages and Tools:</b></i></h2><br>
