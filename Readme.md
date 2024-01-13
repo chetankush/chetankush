@@ -47,7 +47,7 @@
       
   </p>
 </div>
-<h2 align="left">🤝you can connect with me on linked in -> </h2>
+<h2 align="left">🤝you can connect with me on linked in just click on the linkedin icon -> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/chetan-kushwah-5592371b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvabhatnagar/" height="30" width="40" /></a> 
  
