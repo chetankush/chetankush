@@ -1,8 +1,8 @@
 
-<h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1><i/> <br><br>
+<h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1><i/> 
  I'm a MERN stack Developer and UX designer </h2>
  <h2> i design and develop scalable web apps to make people's life easy </h2>
-  <br><br>
+ 
    <h3>it's good to see you </h3>
  <h2>🌱 currently learning</h2>
 <ul>
