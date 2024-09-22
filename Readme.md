@@ -1,6 +1,6 @@
 
 <h2>Hey buddy !! what's up! <br><br><i>  I'm <h1>  Chetan  </h1><i/> 
- I'm a MERN stack Developer and UX designer </h2>
+    Full-Stack Developer and UX designer </h2>
  <h2> i design and develop scalable web apps to make people's life easy </h2>
  
    <h3>it's good to see you </h3>
